@@ -1,0 +1,34 @@
+.weather-info {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.no-data {
+    margin-top: 50px;
+}
+
+.location-name {
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+}
+
+.date-time {
+    font-size: 16px;
+}
+
+.weather-temp {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.temp {
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(35, 138, 186);
+}
+
+.weather-description {
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(209, 77, 198);
+}
